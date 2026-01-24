@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.4",
     "boardgame.io": "^0.35.1",
     "bootstrap": "^4.4.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "mdi-react": "^6.5.0",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",
